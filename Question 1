@@ -1,5 +1,7 @@
 
-public class CountMultiplicativePairs {
+```java
+
+public class MultiplicativePairs {
     public int solution(int[] A, int[] B) {
         // write your code in Java SE 8
         int n=A.length;
@@ -39,3 +41,5 @@ public class CountMultiplicativePairs {
     return count;    
     }
 }
+
+```
